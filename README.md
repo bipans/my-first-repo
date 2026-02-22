@@ -1,1 +1,1 @@
-#my first GitHub Repo
+Learning git is fun
